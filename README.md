@@ -38,7 +38,7 @@
   <a href="https://github.com/Sengwamana/African-Marketplace-DApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=African-Marketplace-DApp&theme=nightowl&show_owner=true" alt="African Marketplace DApp"/>
   </a>
-  <a href="https://github.com/Sengwamana/Swahili-AI-Chatbot">
+  <a href="https://github.com/Sengwamana/AI-Powered">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=Swahili-AI-Chatbot&theme=nightowl&show_owner=true" alt="Swahili AI Chatbot"/>
   </a>
 </div>
