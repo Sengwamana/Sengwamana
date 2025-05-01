@@ -1,5 +1,5 @@
-# 💻 Hello World! I'm Sengwamana Emeran
-### 🏆 3x Award-Winning Full-Stack Engineer | 🚀 Web3 & AI Specialist | 🌍 Pan-African Tech Evangelist
+# 💻 Hello World! I'm Sengwamana Emeran  
+### 🏆 3x Award-Winning Full-Stack Engineer | 🚀 Web3 & AI Specialist | 🌍 Pan-African Tech Evangelist  
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Building+the+Future+of+African+Tech;From+Ideation+to+Production;Open-Source+Advocate;Community+Builder;Blockchain+Enthusiast" alt="Typing SVG" />
@@ -7,38 +7,31 @@
 
 ---
 
+## 👋 About Me
+
+I'm a Rwandan software engineer passionate about transforming Africa through tech innovation, education, and open collaboration.
+
+---
+
 ## 🧑‍💻 Professional Snapshot
 
-<table>
-  <tr>
-    <td width="65%">
-      <p>
-        I architect <strong>scalable digital solutions</strong> that bridge the gap between cutting-edge technology and real-world impact across Africa. With expertise spanning <strong>full-stack development, blockchain, and AI systems</strong>, I'm committed to building tech ecosystems that empower local communities.
-      </p>
-      
-      <h3>🏅 Notable Achievements</h3>
-      <ul>
-        <li>🥇 <strong>1st Place</strong> - AfriCon AI Hackathon 2024 (Nairobi)</li>
-        <li>🏆 <strong>Best DApp</strong> - ETHAccra 2023</li>
-        <li>📢 <strong>Featured Speaker</strong> - Africa Tech Summit 2024</li>
-        <li>🌱 <strong>Trained</strong> 500+ developers through Andela/ALX programs</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Sengwamana/Sengwamana/main/assets/african-tech.gif" width="100%" alt="African tech innovation" />
-    </td>
-  </tr>
-</table>
+I architect **scalable digital solutions** that bridge the gap between cutting-edge technology and real-world impact across Africa. With expertise in **full-stack development, blockchain, and AI systems**, I build tools that empower communities and create sustainable tech ecosystems.
+
+### 🏅 Notable Achievements
+- 🥇 **1st Place** – AfriCon AI Hackathon 2024 (Nairobi)  
+- 🏆 **Best DApp** – ETHAccra 2023  
+- 📢 **Featured Speaker** – Africa Tech Summit 2024  
+- 🌱 **Mentored** 500+ developers via Andela & ALX  
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Sengwamana/Next-E-Commerce">
+  <a href="https://github.com/Sengwamana/African-Marketplace-DApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=African-Marketplace-DApp&theme=nightowl&show_owner=true" alt="African Marketplace DApp"/>
   </a>
-  <a href="https://github.com/Sengwamana/AI-Powered">
+  <a href="https://github.com/Sengwamana/Swahili-AI-Chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=Swahili-AI-Chatbot&theme=nightowl&show_owner=true" alt="Swahili AI Chatbot"/>
   </a>
 </div>
@@ -74,9 +67,6 @@
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sengwamana&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengwamana&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
-</div>
-
-<div align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sengwamana&theme=nightowl&hide_border=true"/>
 </div>
 
@@ -84,20 +74,20 @@
 
 ## 🌍 Community Impact
 
-### � Leadership Roles
-- **Founder**: Kigali Devs Collective (500+ members)
-- **Core Team**: Africa Blockchain Developers Alliance
-- **Ambassador**: Google Developers Group Rwanda
+### 👥 Leadership Roles
+- **Founder** – Kigali Devs Collective (500+ members)  
+- **Core Team** – Africa Blockchain Developers Alliance  
+- **Ambassador** – Google Developers Group Rwanda  
 
-### 📢 Recent Talks
-- "DeFi for African Markets" - Crypto Fest 2024 (Cape Town)
-- "Localizing AI for African Languages" - AI Expo Africa
-- "Building Sustainable Tech Hubs" - DevRel Africa Conf
+### 🎤 Recent Talks
+- *"DeFi for African Markets"* – Crypto Fest 2024 (Cape Town)  
+- *"Localizing AI for African Languages"* – AI Expo Africa  
+- *"Building Sustainable Tech Hubs"* – DevRel Africa Conf  
 
 ### ✍️ Technical Writing
-- Regular contributor to [Hashnode Africa](https://africa.hashnode.com)
-- Published 15+ blockchain tutorials on [GitCoin](https://gitcoin.co)
-- Guest author for [The Bulb Africa](https://thebulb.africa)
+- Contributor at [Hashnode Africa](https://africa.hashnode.com)  
+- 15+ tutorials on [GitCoin](https://gitcoin.co)  
+- Guest author for [The Bulb Africa](https://thebulb.africa)  
 
 ---
 
@@ -120,7 +110,7 @@
 
 ---
 
-> "We are the ones we've been waiting for." - African Proverb
+> *"We are the ones we've been waiting for."* – African Proverb
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sengwamana&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views"/> 
