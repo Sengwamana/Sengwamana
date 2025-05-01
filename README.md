@@ -1,6 +1,8 @@
 # 💫 Hello World! I'm Sengwamana Emeran
 ### 🚀 Professional Software Engineer | 🏆 Award-Winning Developer | 🌍 Tech Leader from Rwanda
 
+![Profile Banner](https://github.com/Sengwamana/Sengwamana/assets/your-banner-image.png) <!-- Replace with actual banner URL -->
+
 <table>
   <tr>
     <td width="60%">
@@ -13,9 +15,9 @@
       </p>
       <p>
         🏆 <strong>Notable Achievements:</strong><br>
-        • Best Developer Award @ Rwanda Hackathon 2023<br>
-        • Global Developer Challenge Winner (ACM-ICPC)<br>
-        • Innovation Leader for AI-Powered Assistant (100K+ users)
+        🥇 Best Developer Award @ Rwanda Hackathon 2023<br>
+        🏅 Global Developer Challenge Winner (ACM-ICPC)<br>
+        🚀 Innovation Leader for AI-Powered Assistant (100K+ users)
       </p>
     </td>
     <td>
@@ -27,12 +29,25 @@
 ---
 
 ## 🌟 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=AI-Assistant&theme=radical)](https://github.com/Sengwamana/AI-Assistant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=E-Commerce-Platform&theme=radical)](https://github.com/Sengwamana/E-Commerce-Platform)
+
+<p>
+  <a href="https://github.com/Sengwamana/AI-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=AI-Assistant&theme=radical" />
+  </a><br>
+  <strong>AI Assistant</strong>: Smart assistant powered by NLP and ML, trusted by 100K+ users globally.
+</p>
+
+<p>
+  <a href="https://github.com/Sengwamana/E-Commerce-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=E-Commerce-Platform&theme=radical" />
+  </a><br>
+  <strong>E-Commerce Platform</strong>: Scalable fullstack app built with React, Node.js, and MongoDB for online retail businesses.
+</p>
 
 ---
 
 ## 🛠 Tech Stack
+
 ### Frontend Mastery
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -52,6 +67,7 @@
 ---
 
 ## 📈 GitHub Analytics
+
 <table>
   <tr>
     <td>
@@ -66,19 +82,21 @@
 ---
 
 ## 🌍 Community Impact
-- Mentored 50+ junior developers in Rwanda
-- Created educational tech content reaching 10K+ Africans
-- Contributed to 15+ open source projects
+
+- Mentored 50+ junior developers in Rwanda  
+- Created educational tech content reaching 10K+ Africans  
+- Contributed to 15+ open source projects  
 - Organized Kigali Tech Meetups since 2021
 
 ---
 
 ## 📫 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amalon_Post)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sengwa-emeran-220102317/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sengwa@example.com)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amalon_Post)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sengwa-emeran-220102317/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your_actual_channel_here)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sengwa@yourdomain.com)
 
 ---
 
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> "Innovation distinguishes between a leader and a follower." – *Steve Jobs*
