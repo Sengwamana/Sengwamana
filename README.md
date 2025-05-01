@@ -55,8 +55,8 @@ I'm a Rwandan software engineer on a mission to transform Africa through:
 
 <div align="center">
   
-[![African Marketplace DApp](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=African-Marketplace-DApp&theme=radical)](https://github.com/Sengwamana/African-Marketplace-DApp)
-[![Swahili AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=Swahili-AI-Chatbot&theme=radical)](https://github.com/Sengwamana/Swahili-AI-Chatbot)
+[![Swahili AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=AI-Powered&theme=radical)](https://github.com/Sengwamana/AI-Powered)
+[![African Marketplace DApp](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=Next-E-Commerce&theme=radical)](https://github.com/Sengwamana/Next-E-Commerce)
 
 </div>
 
