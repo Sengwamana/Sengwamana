@@ -35,7 +35,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Sengwamana/African-Marketplace-DApp">
+  <a href="https://github.com/Sengwamana/Next-E-Commerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=African-Marketplace-DApp&theme=nightowl&show_owner=true" alt="African Marketplace DApp"/>
   </a>
   <a href="https://github.com/Sengwamana/AI-Powered">
