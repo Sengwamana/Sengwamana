@@ -151,7 +151,7 @@ Here are some of the technologies and tools I've worked with:
 ## 🧊 About Ice Tech Rwanda
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1qX0qgOEyNrUnbQQJuxDu_jgrl92F0J6C/view?usp=sharing" alt="Ice Tech Rwanda Logo" width="160"/>
+  <img src="https://drive.google.com/file/d/1oJgOf9Kt9hFmfm591Zcqjrx7k-bAPpRB/view?usp=sharing" alt="Ice Tech Rwanda Logo" width="160"/>
 </div>
 
 **Ice Tech Rwanda** (formerly *Emeran Tech*) is a Rwandan software company crafting modern solutions in **AI, Blockchain, Web, and EdTech**.  
