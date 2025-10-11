@@ -105,14 +105,33 @@ Here are some of the technologies and tools I've worked with:
 
 ---
 
-## 💡 Featured Projects
+## 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![Swahili AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=AI-Powered&theme=blue_navy)](https://github.com/Sengwamana/AI-Powered)
-[![African Marketplace DApp](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=Next-E-Commerce&theme=blue_navy)](https://github.com/Sengwamana/Next-E-Commerce)
+### 🤖 AI-Powered Swahili Chatbot
+A conversational AI system trained on East African languages to make technology more accessible.
 
-</div>
+**Tech Stack:** Python, TensorFlow, NLP, React
+
+[![Repo](https://img.shields.io/badge/View_Repository-1E90FF?style=flat-square&logo=github)](https://github.com/Sengwamana/AI-Powered)
+
+</td>
+<td width="50%">
+
+### 🛒 African Marketplace DApp
+Decentralized e-commerce platform connecting African merchants with global buyers.
+
+**Tech Stack:** Solidity, Next.js, Web3.js, IPFS
+
+[![Repo](https://img.shields.io/badge/View_Repository-1E90FF?style=flat-square&logo=github)](https://github.com/Sengwamana/Next-E-Commerce)
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -175,7 +194,12 @@ Our mission is to **empower Africa’s digital future** through cutting-edge inn
 
 ---
 
-> 💬 *“We are the ones we’ve been waiting for.”* — African Proverb  
+> 💬 *“We are the ones we’ve been waiting for.”* — African Proverb
+
+**Building Africa's Digital Future, One Line of Code at a Time**
+
+⭐ **Star my repositories if you find them helpful!**
+
 
 <div align="center">
 
