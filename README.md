@@ -1,18 +1,25 @@
-# 💻 Hello World! I'm Sengwamana Emeran  
-### 🏆 3x Award-Winning Full-Stack Engineer | 🚀 Web3 & AI Specialist | 🌍 Pan-African Tech Evangelist  
+<!-- Professional GitHub Profile README for Sengwamana Emeran | Branded by Ice Tech Rwanda -->
+
+<h1 align="center">💻 Hello World! I'm <strong>Sengwamana Emeran</strong></h1>
+<h3 align="center">🏆 3x Award-Winning Full-Stack Engineer | 🚀 Web3 & AI Specialist | 🌍 CEO @ Ice Tech Rwanda</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Building+the+Future+of+African+Tech;From+Ideation+to+Production;Open-Source+Advocate;Community+Builder;Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1E90FF&width=520&lines=Building+Africa's+Digital+Future;Empowering+Innovation+Through+Code;AI+%7C+Web3+%7C+Software+Engineering;CEO+of+Ice+Tech+Rwanda;Open-Source+and+Community+Advocate" alt="Typing Animation" />
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a Rwandan software engineer on a mission to transform Africa through:
-- **Tech Innovation** - Building solutions for African challenges
-- **Developer Education** - Mentoring the next generation
-- **Open Collaboration** - Fostering pan-African tech ecosystems
+Hey there! I’m **Sengwamana Emeran**, a passionate **Rwandan Software Engineer** and **Tech Entrepreneur**.  
+I’m the **Founder & CEO of [Ice Tech Rwanda](https://www.icetechrwanda.com)** — a modern software company crafting digital solutions that empower Africa’s next generation of innovators.  
+
+💡 My mission is to **transform Africa through technology** by combining:  
+- 🚀 **Innovation** – Building scalable solutions for African industries  
+- 🧠 **Education** – Mentoring young developers and creators  
+- 🤝 **Collaboration** – Connecting African tech communities for global impact  
+
+> “Technology isn’t just about code — it’s about creating opportunity.”
 
 ---
 
@@ -85,38 +92,37 @@ Here are some of the technologies and tools I've worked with:
 [![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/)
 [![Cryptography](https://img.shields.io/badge/Cryptography-833AB4?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
 
-
 ---
 
-## 🏆 Notable Achievements
+## 🏅 Achievements
 
-| Award | Event | Year |
-|-------|-------|------|
+| 🏆 Award | 🎯 Event | 📅 Year |
+|----------|----------|--------|
 | 🥇 1st Place | AfriCon AI Hackathon | 2024 |
 | 🏆 Best DApp | ETHAccra | 2023 |
 | 🎤 Featured Speaker | Africa Tech Summit | 2024 |
-| 🌱 500+ Developers Mentored | Andela & ALX | 2023 |
+| 🌱 Mentored 500+ Developers | Andela & ALX | 2023 |
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Featured Projects
 
 <div align="center">
-  
-[![Swahili AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=AI-Powered&theme=radical)](https://github.com/Sengwamana/AI-Powered)
-[![African Marketplace DApp](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=Next-E-Commerce&theme=radical)](https://github.com/Sengwamana/Next-E-Commerce)
+
+[![Swahili AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=AI-Powered&theme=blue_navy)](https://github.com/Sengwamana/AI-Powered)
+[![African Marketplace DApp](https://github-readme-stats.vercel.app/api/pin/?username=Sengwamana&repo=Next-E-Commerce&theme=blue_navy)](https://github.com/Sengwamana/Next-E-Commerce)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sengwamana&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengwamana&layout=compact&theme=radical&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sengwamana&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sengwamana&show_icons=true&theme=blue_navy&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengwamana&layout=compact&theme=blue_navy&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sengwamana&theme=blue_navy&hide_border=true)
 
 </div>
 
@@ -125,40 +131,55 @@ Here are some of the technologies and tools I've worked with:
 ## 🌍 Community Impact
 
 ### 👥 Leadership
-- **Founder**: Kigali Devs Collective (500+ members)
-- **Core Team**: Africa Blockchain Developers Alliance
-- **Ambassador**: Google Developers Group Rwanda
+- **Founder & CEO** – [Ice Tech Rwanda](https://www.icetechrwanda.com)  
+- **Founder** – Kigali Devs Collective (500+ members)  
+- **Core Team** – Africa Blockchain Developers Alliance  
+- **Ambassador** – Google Developers Group, Rwanda  
 
-### 🎤 Recent Speaking Engagements
-- **"DeFi for African Markets"** - Crypto Fest 2024
-- **"Localizing AI for African Languages"** - AI Expo Africa
-- **"Building Sustainable Tech Hubs"** - DevRel Africa
+### 🎤 Speaking Highlights
+- “**DeFi for African Markets**” – Crypto Fest 2024  
+- “**Localizing AI for African Languages**” – AI Expo Africa  
+- “**Building Sustainable Tech Hubs**” – DevRel Africa  
 
-### ✍️ Technical Writing
-- Regular contributor to Hashnode Africa
-- Authored 15+ GitCoin tutorials
-- Featured in The Bulb Africa
+### ✍️ Publications
+- Contributor at **Hashnode Africa**  
+- Authored **15+ GitCoin tutorials**  
+- Featured in **The Bulb Africa**
 
 ---
 
-## 📫 Let's Connect!
+## 🧊 About Ice Tech Rwanda
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amalon_Post)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sengwa-emeran-220102317/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sengwa@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://sengwamana.dev)
+  <img src="https://drive.google.com/file/d/1qX0qgOEyNrUnbQQJuxDu_jgrl92F0J6C/view?usp=sharing" alt="Ice Tech Rwanda Logo" width="160"/>
+</div>
+
+**Ice Tech Rwanda** (formerly *Emeran Tech*) is a Rwandan software company crafting modern solutions in **AI, Blockchain, Web, and EdTech**.  
+Our mission is to **empower Africa’s digital future** through cutting-edge innovation, education, and design.  
+
+🔗 [Visit Our Website →](https://www.icetechrwanda.com)
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Amalon_Post)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sengwa-emeran-220102317/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sengwa@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=aboutdotme)](https://sengwamana.dev)
+[![Ice Tech Rwanda](https://img.shields.io/badge/Ice_Tech_Rwanda-007FFF?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.icetechrwanda.com)
 
 </div>
 
 ---
 
-> *"We are the ones we've been waiting for."* – African Proverb
+> 💬 *“We are the ones we’ve been waiting for.”* — African Proverb  
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Sengwamana&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/Sengwamana?label=FOLLOW&style=social)](https://github.com/Sengwamana?tab=followers)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sengwamana&label=Profile+Views&color=007FFF&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/Sengwamana?label=Follow&style=social)](https://github.com/Sengwamana?tab=followers)
 
 </div>
