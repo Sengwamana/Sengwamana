@@ -170,7 +170,7 @@ Decentralized e-commerce platform connecting African merchants with global buyer
 ## 🧊 About Ice Tech Rwanda
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1oJgOf9Kt9hFmfm591Zcqjrx7k-bAPpRB/view?usp=sharing" alt="Ice Tech Rwanda Logo" width="160"/>
+  <img src="https://drive.google.com/drive/folders/1eRlexXyC1HT2--WY64J3U3UgPGA0Thsb" alt="Ice Tech Rwanda Logo" width="160"/>
 </div>
 
 **Ice Tech Rwanda** (formerly *Emeran Tech*) is a Rwandan software company crafting modern solutions in **AI, Blockchain, Web, and EdTech**.  
